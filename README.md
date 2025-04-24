@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Anderson Alves de Souza</h1>
+<h1 align="center">Olá! Eu sou Anderson Alves</h1>
 
 <p align="center">
   <i>Um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.</i>
