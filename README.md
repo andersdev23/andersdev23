@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Tech Stack
-💻 **Dev Web com** | HTML | CSS | JavaScript | PHP | MySQL | React 
+💻 **Dev Web com** | HTML | CSS | JavaScript | Node.js | MySQL | React 
 
 ---
 
