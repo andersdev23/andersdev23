@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 </div>
----
+
 <div align="center">
   
 ![snake](https://github.com/andersdev23/andersdev23/blob/output/github-contribution-grid-snake.svg)
