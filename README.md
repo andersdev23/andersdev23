@@ -12,8 +12,12 @@
 ---
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersdev23&show_icons=true&theme=dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersdev23&layout=compact&langs_count=6&theme=dark"/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 </div>
 
 ---
