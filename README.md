@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70e000&size=27&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Anderson+Alves;Estudante+de+Engenharia+de+Software;Desenvolvedor+de+Software;Essas+são+as+Minhas+Seguintes+Stacks;JavaScript;Node.js;React;Mysql.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70e000&size=27&center=true&vCenter=true&width=600&lines=Olá,+eu+me+chamo+Anderson+Alves;Estudante+de+Engenharia+de+Software;Desenvolvedor+de+Software;Essas+são+as+minhas+seguintes+Stacks:;JavaScript;Node.js;React;Mysql.)](https://git.io/typing-svg)
 
 <p align="center">
   <i>Um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.</i>
