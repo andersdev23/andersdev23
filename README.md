@@ -1,4 +1,6 @@
-<h1 align="center">Olá! Eu sou Anderson Alves</h1>
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Olá+eu+sou+Anderson;Estudante+de+Engenharia+de+Software;Desenvolvedor+JavaScript;Node.js+e+React)](https://git.io/typing-svg)
+</h1>
 
 <p align="center">
   <i>Um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.</i>
