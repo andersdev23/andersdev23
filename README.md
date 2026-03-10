@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 </div>
 
 <div align="center">
