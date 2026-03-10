@@ -12,7 +12,6 @@
 ---
 
 <div align="center">
-## 🚀 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
