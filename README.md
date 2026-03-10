@@ -25,6 +25,9 @@
 </div>
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andersdev23)
+
+---
 
 ### 🌍 Conecte-se comigo  
 <p align="center">
