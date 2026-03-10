@@ -1,5 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F71D&background=000000&center=true&vCenter=true&width=635&separator=%3C&lines=Ol%C3%A1%2C+me+chamo+Anderson+Alves%3CAtualmente+sou+estudante+de+Engenharia+de+Software%3CEssas+s%C3%A3o+as+minhas+seguintes+Stacks;%3CJavascript%2C+Node.js%2C+Mysql%2C+React.)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F71D&background=000000&center=true&vCenter=true&width=635&height=70&separator=%3C&lines=Ol%C3%A1%2C+me+chamo+Anderson+Alves.%3CAtualmente+sou+estudante+de+Engenharia+de+Software.%3CE+essas+s%C3%A3o+as+minhas+seguintes+Stacks;%3CJavascript%2C+Node.js%2C+Mysql%2C+React.)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   <i>Um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.</i>
